@@ -1,0 +1,8 @@
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\bin\Debug\ConsoleAppP2.exe.config
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\bin\Debug\ConsoleAppP2.exe
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\bin\Debug\ConsoleAppP2.pdb
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\obj\Debug\ConsoleAppP2.csproj.AssemblyReference.cache
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\obj\Debug\ConsoleAppP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\obj\Debug\ConsoleAppP2.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\obj\Debug\ConsoleAppP2.exe
+C:\Users\Dimitar\source\repos\ConsoleAppP2\ConsoleAppP2\obj\Debug\ConsoleAppP2.pdb
