@@ -19,10 +19,6 @@ This project simulates a ticket/cruise booking system with clients (ticket agent
 7. **Bank Service** (for team projects): Manages credit card validation and account transactions.
 8. **Main**: Initializes necessary components, creates threads, and starts execution.
 
-## Additional Tasks (For Team Projects)
-- **Multiple Suppliers**: Implement multiple cruises with complex price models.
-- **Bank Service**: Manage credit card validation and transactions for order payments.
-
 ## Usage
 - Clone the repository.
 - Compile and execute the program.
